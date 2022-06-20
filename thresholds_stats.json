@@ -1,1 +1,4 @@
-{"threshold_sell": 56.8, "threshold_buy": 45.0}
+{
+    "threshold_sell": 1.0,
+    "threshold_buy": 1.0
+}

@@ -3,3 +3,4 @@ venv
 CriptoBot.docx
 conf.ini
 test.py
+secret.txt
